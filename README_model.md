@@ -15,9 +15,9 @@ The questions that we are trying to answer are:
 
 <br>
 
-## **Relevant research on the subject matter:**
+## **Relevant research:**
 
-[Brazilian Apparel Industry 2022-2026, REport Linker](https://www.reportlinker.com/report-summary/Apparel/121350/Brazilian-Clothing-Industry.html)
+[Brazilian Apparel Industry 2022-2026, REport Linker](https://www.reportlinker.com/report-summary/Apparel/121350/Brazilian-Clothing-Industry.html) <br>
 [The State of Fashion 2023, McKinsey](https://www.mckinsey.com/industries/retail/our-insights/state-of-fashion)
 
 <br>
@@ -47,9 +47,7 @@ Luiz Furtado <br>
 
 <br>
 
----
-
-<br>
+## **Access Live Dashboard:**
 
 This respository contains a PDF but it's posible [access the live dashboard in this link](https://lookerstudio.google.com/reporting/80f9d0ba-c87a-4ee6-a587-93aec3b43de7).
 
@@ -59,17 +57,7 @@ To have a better experience click on 3 points button on upper right and go to pr
 
 <br>
 
----
-
-<br>
-
-## **References/Acknowledgments**
-
-Rferences: 
-
-<br>
-
-<br>
+## **Acknowledgments**
 
 Thanks to: 
 
